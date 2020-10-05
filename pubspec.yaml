@@ -8,7 +8,7 @@ environment:
   sdk: '>=2.4.0 <3.0.0'
 
 dependencies:
-  c
+  process: ^3.0.13
   tool_base:
     git:
       url: git://github.com/ivan-horchakov/tool_base.git
