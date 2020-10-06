@@ -15,6 +15,10 @@ dependencies:
       ref: master
 #  tool_base:
 #    path: ../tool_base
+  tool_base_test:
+    git:
+      url: https://github.com/ivan-horchakov/tool_base_test.git
+      ref: master
   mockito: ^4.1.0
   test: ^1.6.0
 dev_dependencies:
